@@ -1,0 +1,11 @@
+.small-image {
+    width: 450px;
+    height: auto;
+}
+
+.cool-border {
+    border: 10px solid #3498db;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0,3);
+}
